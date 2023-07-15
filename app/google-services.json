@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767577017780",
+    "project_id": "haberkaydet-d0614",
+    "storage_bucket": "haberkaydet-d0614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767577017780:android:06b05f1caa21c363b676e1",
+        "android_client_info": {
+          "package_name": "com.talhakara.thaber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767577017780-avb8197g4ngk33qujh35hh2i9ps3tuff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kjShPeWJ3DvpX1hLDMCNUepUk6WdGAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767577017780-avb8197g4ngk33qujh35hh2i9ps3tuff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
